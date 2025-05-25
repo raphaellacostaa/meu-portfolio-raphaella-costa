@@ -34,9 +34,8 @@ O site possui cinco páginas principais, acessíveis através do menu de navega�
 
 ## Acesse meu portfólio online
 
-👉 [🔗 Link do site publicado no GitHub Pages](https://raphaellacostaa.github.io/seu-repositorio/)  
+👉 [🔗 Link do site publicado no GitHub Pages]https://raphaellacostaa.github.io/meu-portfolio-raphaella-costa  
 
-*(Substituir pelo seu link real do GitHub Pages)*
 
 ---
 
@@ -55,7 +54,7 @@ O site possui cinco páginas principais, acessíveis através do menu de navega�
 
 ---
 
-## 👩‍💻 Contato
+## Contato
 
 - 📧 Email: [raphaella.costa91@gmail.com](mailto:raphaella.costa91@gmail.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/raphaellacosta91/](https://www.linkedin.com/in/raphaellacosta91/)  
@@ -63,7 +62,7 @@ O site possui cinco páginas principais, acessíveis através do menu de navega�
 
 ---
 
-## 💖 Agradecimento
+## Agradecimento
 
 Projeto desenvolvido para fins acadêmicos e profissionais, como parte da disciplina de **Fundamentos da Programação Web** na Uninter, além de ser meu cartão de visita para o mundo da tecnologia. 🌐🚀
 
