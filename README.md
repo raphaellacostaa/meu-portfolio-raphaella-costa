@@ -34,7 +34,7 @@ O site possui cinco páginas principais, acessíveis através do menu de navega�
 
 ## Acesse meu portfólio online
 
-👉 [🔗 Link do site publicado no GitHub Pages]https://raphaellacostaa.github.io/meu-portfolio-raphaella-costa  
+👉 https://raphaellacostaa.github.io/meu-portfolio-raphaella-costa  
 
 
 ---
